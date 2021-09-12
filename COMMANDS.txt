@@ -34,5 +34,5 @@ git diff
 git commit -am "message"    add and commit(just for modified files) 
 
 update local master branch from Repo   git pull
-move to my branch
-git merge master --> update my branch with lastest changes
+move to my branch 
+git merge master --> update my branch with latest changes
